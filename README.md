@@ -65,7 +65,7 @@ This role **will make changes to the system** which may have unintended conseque
 
 ## Matching a security Level for CIS
 
-It is possible to to only run level 1 or level 2 controls for CIS.
+It is possible to only run level 1 or level 2 controls for CIS.
 This is managed using tags:
 
 - level1_server
